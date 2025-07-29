@@ -1,14 +1,6 @@
-matplotlib
 streamlit
+matplotlib
 pandas
 numpy
 seaborn
-sklearn
-model_selection
-StandardScaler
-RandomForestClassifier
-svm
-linear_model
-metrics
-joblib
-pickle
+scikit-learn
